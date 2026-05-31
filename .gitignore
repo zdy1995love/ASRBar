@@ -1,0 +1,18 @@
+# Build output
+ASRBar.app/
+*.app/
+
+# macOS
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Xcode (in case anyone opens it there)
+xcuserdata/
+*.xcuserstate
+DerivedData/
+build/
